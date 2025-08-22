@@ -9,11 +9,43 @@
   "sort_mode": 0,
   "items": [
     {
+      "path": "C:\\ROMS\\SNES\\Snes9x 2010\\Death and Return of Superman, The (USA) (Rev 1).zip",
+      "label": "Death and Return of Superman, The (USA) (Rev 1)",
+      "core_path": "C:\\ROMS-CORES\\snes9x2010_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x 2010)",
+      "crc32": "012EF33D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
       "path": "C:\\ROMS\\SNES\\Snes9x 2010\\Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).zip#Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).sfc",
       "label": "Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "4E2D90F4|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\SNES\\Snes9x 2010\\Legend of Zelda, The - A Link to the Past (USA).zip",
+      "label": "Legend of Zelda, The - A Link to the Past (USA)",
+      "core_path": "C:\\ROMS-CORES\\snes9x2010_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x 2010)",
+      "crc32": "777AAC2F|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\SNES\\Snes9x 2010\\Lemmings (USA) (Rev 1).zip",
+      "label": "Lemmings (USA) (Rev 1)",
+      "core_path": "C:\\ROMS-CORES\\snes9x2010_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x 2010)",
+      "crc32": "51E3D566|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\SNES\\Snes9x 2010\\Lemmings 2 - The Tribes (USA).zip",
+      "label": "Lemmings 2 - The Tribes (USA)",
+      "core_path": "C:\\ROMS-CORES\\snes9x2010_libretro.dll",
+      "core_name": "Nintendo - SNES / SFC (Snes9x 2010)",
+      "crc32": "DF7200C8|crc",
       "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
     },
     {
