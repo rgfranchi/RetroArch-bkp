@@ -1,0 +1,172 @@
+{
+    "version": "1.5",
+    "default_core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+    "default_core_name": "Arcade (MAME 2010)",
+    "label_display_mode": 0,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "thumbnail_match_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "C:\\ROMS\\MAME\\2010\\64th Street A Detective Story\\64street.zip#64th_02.rom",
+            "label": "64th. Street - A Detective Story (World)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "0621ED1D|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2010\\64th Street A Detective Story\\64streetj.zip",
+            "label": "64th. Street - A Detective Story (Japan, set 1)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "27C1F436|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2010\\Bad Dudes Vs. DragonNinja\\baddudes.zip",
+            "label": "Bad Dudes vs. Dragonninja (US revision 1)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "3C87463E|crc",
+            "db_name": "FinalBurn_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\FinalBurn\\Neo\\Battle Circuit\\batcirj.zip",
+            "label": "Battle Circuit (Japan 970319)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "9F9FB965|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2010\\Captain Commando\\captcomm.zip#cce_23f.8f",
+            "label": "Captain Commando (World 911202)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "42C814C5|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Double Dragon\\ddragon.zip",
+            "label": "Double Dragon (Japan)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "9533FF21|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Double Dragon II The Revenge\\ddragon2.zip",
+            "label": "Double Dragon II - The Revenge (World)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "7F8BFA21|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2010\\Dungeon Magic (Light Bringers)\\dungeonmu.zip",
+            "label": "Dungeon Magic (Ver 2.1A 1994/02/18)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "C9D4E051|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2010\\Dungeon Magic (Light Bringers)\\dungeonm.zip",
+            "label": "Dungeon Magic (Ver 2.1O 1994/02/18)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "F99E175D|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2010\\Dungeons & Dragons Shadow Over Mystara\\ddsom.zip#dd2e.06e",
+            "label": "Dungeons & Dragons: Shadow over Mystara (Euro 960619)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "E0807E1E|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2010\\Dungeons & Dragons Tower Of Doom\\ddtod.zip#dade.05c",
+            "label": "Dungeons & Dragons: Tower of Doom (Euro 940412)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "EA996008|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2010\\Dungeons & Dragons Tower Of Doom\\ddtodur.zip#dadu.05a",
+            "label": "Dungeons & Dragons: Tower of Doom (USA 940113)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "03D39E91|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2010\\Dungeons & Dragons Tower Of Doom\\ddtodu.zip#dadu.05b",
+            "label": "Dungeons & Dragons: Tower of Doom (USA 940125)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "EE1CFBFE|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2010\\Dungeons & Dragons Shadow Over Mystara\\ddsomu.zip",
+            "label": "Dungeons _ Dragons: Shadow over Mystara (US 960619)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "58322186|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\FinalBurn\\Neo\\Dynasty Wars\\dynwar.zip",
+            "label": "Dynasty Wars (USA, set 1)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "13133F73|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\FinalBurn\\Neo\\Final Fight\\ffight.zip",
+            "label": "Final Fight (World, set 1)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "E5524363|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2010\\Dungeon Magic (Light Bringers)\\lightbrj.zip#d69-14.bin",
+            "label": "Light Bringer (Ver 2.1J 1994/02/18)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "990BF945|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2010\\Dungeon Magic (Light Bringers)\\lightbr.zip#d69-27.ic34",
+            "label": "Light Bringer (Ver 2.2O 1994/04/08)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "E232A949|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\FinalBurn\\Neo\\Renegade\\renegade.zip",
+            "label": "Renegade (US)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "004A3C17|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2010\\Growl (Runark)\\runark.zip",
+            "label": "Runark (Japan)",
+            "core_path": "C:\\ROMS-CORES\\mame2010_libretro.dll",
+            "core_name": "Arcade (MAME 2010)",
+            "crc32": "58CC2FEB|crc",
+            "db_name": "MAME_ALL.lpl"
+        }
+    ]
+}

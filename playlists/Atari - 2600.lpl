@@ -1,0 +1,148 @@
+{
+  "version": "1.5",
+  "default_core_path": "C:\\ROMS-CORES\\stella2023_libretro.dll",
+  "default_core_name": "Atari - 2600 (Stella 2023)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\Smurfs Save the Day (USA).a26",
+      "label": "Smurfs Save the Day (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD89C697|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\Smurf - Rescue in Gargamel's Castle (USA).a26",
+      "label": "Smurf - Rescue in Gargamel's Castle (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E0624A7F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\California Games (USA).a26",
+      "label": "California Games (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E9A3FDC3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\Donkey Kong (USA).a26",
+      "label": "Donkey Kong (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F331B069|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\Donkey Kong Junior (USA).a26",
+      "label": "Donkey Kong Junior (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9EF649E5|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\Double Dragon (USA).a26",
+      "label": "Double Dragon (USA)",
+      "core_path": "C:\\ROMS-CORES\\stella2023_libretro.dll",
+      "core_name": "Atari - 2600 (Stella 2023)",
+      "crc32": "8320BB37|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\Enduro (USA).a26",
+      "label": "Enduro (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2EF17B2E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\Garfield (USA) (Proto).a26",
+      "label": "Garfield (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F20CADCF|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\Indy 500 (USA).a26",
+      "label": "Indy 500 ~ Race (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B43DA2A3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\Mario Bros. (USA).a26",
+      "label": "Mario Bros. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8FBF7E90|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\Pac-Man (USA).a26",
+      "label": "Pac-Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DDC9A881|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\Pitfall II - Lost Caverns (USA).a26",
+      "label": "Pitfall II - Lost Caverns (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "097CE7AD|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\Pitfall! - Pitfall Harry's Jungle Adventure (USA).a26",
+      "label": "Pitfall! - Pitfall Harry's Jungle Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "42AD47BF|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\River Raid (USA).a26",
+      "label": "River Raid (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C3EB7E1E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\River Raid II (USA).a26",
+      "label": "River Raid II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "27D2DF2C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\TRON - Deadly Discs (USA).a26",
+      "label": "TRON - Deadly Discs (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D35B22F9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\X-Man (USA).a26",
+      "label": "X-Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "91659AF1|crc",
+      "db_name": "Atari - 2600.lpl"
+    }
+  ]
+}

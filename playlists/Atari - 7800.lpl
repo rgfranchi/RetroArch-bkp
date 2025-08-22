@@ -1,0 +1,60 @@
+{
+  "version": "1.5",
+  "default_core_path": "C:\\ROMS-CORES\\prosystem_libretro.dll",
+  "default_core_name": "Atari - 7800 (ProSystem)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "C:\\ROMS\\Atari\\7800\\Commando (1989) (Atari).zip",
+      "label": "Commando (Atari) (Alt 1)",
+      "core_path": "C:\\ROMS-CORES\\prosystem_libretro.dll",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "81C6C079|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\7800\\Donkey Kong (1988) (Atari).zip",
+      "label": "Donkey Kong (Atari) (Alt 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D7A55F95|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\7800\\Donkey Kong Jr (1988) (Atari).zip",
+      "label": "Donkey Kong Junior (Atari) (Alt 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6E989686|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\7800\\Fatal Run (1990) (Atari).zip",
+      "label": "Fatal Run (Atari)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "718232BB|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\7800\\Mario Brothers (1988) (Atari).zip",
+      "label": "Mario Bros. (Atari) (Alt 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4D072A3E|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\7800\\Rampage (1989) (Activision).zip",
+      "label": "Rampage",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "859D9352|crc",
+      "db_name": "Atari - 7800.lpl"
+    }
+  ]
+}

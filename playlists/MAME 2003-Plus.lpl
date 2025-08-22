@@ -1,0 +1,564 @@
+{
+    "version": "1.5",
+    "default_core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+    "default_core_name": "Arcade (MAME 2003-Plus)",
+    "label_display_mode": 0,
+    "right_thumbnail_mode": 0,
+    "left_thumbnail_mode": 0,
+    "thumbnail_match_mode": 0,
+    "sort_mode": 0,
+    "items": [
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Alien Storm\\astormbl.zip",
+            "label": "Alien Storm (bootleg, set 1)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "7829C4F3|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+		        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Alien Storm\\astorm.zip#epr-13083a.bin",
+            "label": "Alien Storm (World, 2 Players) (FD1094 317-0154)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "E7528E06|crc",
+            "db_name": "MAME_ALL.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Alien Vs Predator\\avsp.zip#avsp.key",
+            "label": "Alien vs. Predator (Euro 940520)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "E69FA35B|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Arabian Fight\\arabfgt.zip#mp14608.8",
+            "label": "Arabian Fight (US)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "CD5EFBA9|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Arabian Magic\\arabianmu.zip",
+            "label": "Arabian Magic (Ver 1.0A 1992/07/06)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "CEB1627B|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Arabian Magic\\arabianmj.zip",
+            "label": "Arabian Magic (Ver 1.0J 1992/07/06)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "57B833C1|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Arabian Magic\\arabianm.zip#d29-25.ic34",
+            "label": "Arabian Magic (Ver 1.0O 1992/07/06)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "B9B652ED|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Armored Warriors\\armwar.zip#pwge.05b",
+            "label": "Armored Warriors (Euro 941024)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "4403ED08|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Armored Warriors\\armwaru.zip#pwgu.05b",
+            "label": "Armored Warriors (USA 941024)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "A54E9E44|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Asterix\\asterixaad.zip#asterixaad.nv",
+            "label": "Asterix (ver AAD)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "BCCA86A7|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Asterix\\asterixeaa.zip#asterixeaa.nv",
+            "label": "Asterix (ver EAA)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "30275DE0|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Asterix\\asterixeac.zip#068_ea_c02.8d",
+            "label": "Asterix (ver EAC)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "B0805F47|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Asterix\\asterix.zip#aster8d.bin",
+            "label": "Asterix (ver EAD)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "53AAC057|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Asterix\\asterixj.zip#asterixj.nv",
+            "label": "Asterix (ver JAD)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "84229F2C|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Battletoads\\btoads.zip",
+            "label": "Battle Toads",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "092A62E2|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Cadillacs And Dinosaurs\\dino.zip#cde_22a.7f",
+            "label": "Cadillacs and Dinosaurs (World 930201)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "9278AA12|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Captain America And The Avengers\\captaven.zip",
+            "label": "Captain America and The Avengers (Asia Rev 1.4)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "6C2FE62E|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Captain Commando\\captcomj.zip#cc23.bin",
+            "label": "Captain Commando (Japan 911202)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "5B482B62|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Captain Commando\\captcomu.zip#23b",
+            "label": "Captain Commando (USA 910928)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "03DA44FD|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Crime Fighters\\crimfght.zip#821l02.f24",
+            "label": "Crime Fighters (US 4 Players)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "588E7DA6|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Crime Fighters 2 (Vendetta)\\vendettj.zip",
+            "label": "Crime Fighters 2 (Japan, 2 Players, ver. P)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "5FE30242|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Denjin Makai\\denjinmk.zip",
+            "label": "Denjin Makai",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "F7F95900|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Double Dragon 3 The Rosetta Stone\\ddragon3.zip",
+            "label": "Double Dragon 3 - The Rosetta Stone (US)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "D36954E7|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Golden Axe\\goldnaxe.zip",
+            "label": "Golden Axe (Version 1)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "B1C2D67C|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Denjin Makai II (Guardians)\\grdians.zip",
+            "label": "Guardians / Denjin Makai II",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "12EEE497|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Knights Of The Round\\knightsu.zip",
+            "label": "Knights of the Round (US 911127)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "0DB007A9|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Knights Of The Round\\knights.zip#kr_23e.8f",
+            "label": "Knights of the Round (World 911127)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "1B3997EB|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Metamorphic Force\\metamrph.zip",
+            "label": "Metamorphic Force (US ver UAA)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "B4F2DE9B|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Metamorphic Force\\metamrpj.zip",
+            "label": "Metamorphic Force (ver JAA)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "9E363A09|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Night Slashers\\nslasherj.zip#lx-01.2f",
+            "label": "Night Slashers (Japan Rev 1.2, DE-0397-0 PCB)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "A6DF2152|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Night Slashers\\nslasher.zip#mainprg.2f",
+            "label": "Night Slashers (Korea Rev 1.3, DE-0397-0 PCB)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "931FC7EE|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Ninja Baseball Bat Man\\nbbatman.zip#a1-l0-a.31",
+            "label": "Ninja Baseball Bat Man (US)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "846D7716|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Ninja Clowns\\ninclown.zip#srom0.bin",
+            "label": "Ninja Clowns (27 oct 91)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "F6B501E1|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\P.O.W. Prisoners Of War\\pow.zip#dg2",
+            "label": "P.O.W. - Prisoners of War (US version 1)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "4287AFFC|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Pit Fighter\\pitfighb.zip#pit7.bin",
+            "label": "Pit Fighter (bootleg)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "A9E7163A|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Pit Fighter\\pitfigh3.zip",
+            "label": "Pit Fighter (rev 3)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "78C7AFBF|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Pit Fighter\\pitfight.zip#4029",
+            "label": "Pit Fighter (rev 4)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "13AE0D4F|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Shadow Force\\shadfrce.zip",
+            "label": "Shadow Force (US Version 2)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "25CDA2EE|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Spider-Man The Video Game\\spidey.zip#14302",
+            "label": "Spider-Man: The Videogame (US, Rev A)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "D954C40A|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Spider-Man The Video Game\\spideyj.zip",
+            "label": "Spider-Man: The Videogame (World)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "64379DC6|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Splatter House\\splatter.zip",
+            "label": "Splatter House (Japan)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "D65A8D6D|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Superman\\superman.zip",
+            "label": "Superman (World)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "9F446A44|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Teenage Mutant Ninja Turtles\\tmht2p.zip#963-u22",
+            "label": "Teenage Mutant Hero Turtles (UK 2 Players, version U)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "4ECC8D6B|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Teenage Mutant Ninja Turtles\\tmnt.zip#963-x22",
+            "label": "Teenage Mutant Ninja Turtles (World 4 Players, version X)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "0A74E277|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Teenage Mutant Ninja Turtles Turtles In Time\\tmnt22p.zip",
+            "label": "Teenage Mutant Ninja Turtles - Turtles in Time (2 Players ver UDA)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "85133679|crc",
+            "db_name": "MAME.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Teenage Mutant Ninja Turtles Turtles In Time\\tmnt2.zip",
+            "label": "Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver UAA)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "8F8623A2|crc",
+            "db_name": "MAME.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\The Combatribes\\ctribe.zip#ic-25",
+            "label": "The Combatribes (US, rev 2, set 1)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "3221C755|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\The King Of Dragons\\kodu.zip",
+            "label": "The King of Dragons (US 910910)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "EA54CAB9|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\The King Of Dragons\\kod.zip#kde_37a.11f",
+            "label": "The King of Dragons (World 910805)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "F22E5266|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\The Ninja Kids\\ninjakj.zip",
+            "label": "The Ninja Kids (Japan)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "E4CCAA8E|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\The Ninja Kids\\ninjak.zip#c85_xx.5",
+            "label": "The Ninja Kids (World)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "0AC2CBA2|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\The Punisher\\punisher.zip#pse_29.10f",
+            "label": "The Punisher (World 930422)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "EC037BCE|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\The Simpsons\\simpsn2p.zip",
+            "label": "The Simpsons (2 Players)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "3FFDD78E|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\The Simpsons\\simpsons.zip",
+            "label": "The Simpsons (4 Players)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "6EC3DF64|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Undercover Cops\\uccopsj.zip#uca-l1.bin",
+            "label": "Undercover Cops (Japan)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "19628280|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Undercover Cops\\uccops.zip#uc_l1.rom",
+            "label": "Undercover Cops (World)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "A8A402D8|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Crime Fighters 2 (Vendetta)\\vendet2p.zip",
+            "label": "Vendetta (World, 2 Players, ver. W)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "CEE57132|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Crime Fighters 2 (Vendetta)\\vendetta2pw.zip",
+            "label": "Vendetta (World, 2 Players, ver. W)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "176CDE16|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Crime Fighters 2 (Vendetta)\\vendetta.zip#081t01",
+            "label": "Vendetta (World, 4 Players, ver. T)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "E76267F5|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Vigilante\\vigilant.zip",
+            "label": "Vigilante (World)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "42D62CD0|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Violent Storm\\viostrma.zip",
+            "label": "Violent Storm (Asia ver AAC)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "197203BD|crc",
+            "db_name": "Arcade Beat'Em Up.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Violent Storm\\viostrmj.zip",
+            "label": "Violent Storm (Japan ver JAC)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "9CADF720|crc",
+            "db_name": "Arcade Beat'Em Up.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Violent Storm\\viostrmu.zip",
+            "label": "Violent Storm (US ver UAB)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "B4F03351|crc",
+            "db_name": "Arcade Beat'Em Up.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Violent Storm\\viostorm.zip",
+            "label": "Violent Storm (ver EAB)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "14894959|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Warrior Blade (Rastan Saga Episode III)\\warriorb.zip",
+            "label": "Warrior Blade - Rastan Saga Episode III (Japan)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "8D41CA16|crc",
+            "db_name": "MAME.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Warriors Of Fate (Tenchi Wo Kurau)\\wof.zip",
+            "label": "Warriors of Fate (World)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "5C0D5D0F|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\Wild Fang (Tecmo Knight)\\wildfang.zip#2.5st",
+            "label": "Wild Fang / Tecmo Knight",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "1DC74B3B|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\X-Men\\xmen.zip",
+            "label": "X-Men (US 4 Players)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "4F5106C8|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        },
+        {
+            "path": "C:\\ROMS\\MAME\\2003Plus\\X-Men\\xmen2p.zip",
+            "label": "X-Men (World 2 Players)",
+            "core_path": "C:\\ROMS-CORES\\mame2003_plus_libretro.dll",
+            "core_name": "Arcade (MAME 2003-Plus)",
+            "crc32": "FB9B4369|crc",
+            "db_name": "MAME 2003-Plus.lpl"
+        }
+    ]
+}

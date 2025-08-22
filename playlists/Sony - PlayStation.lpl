@@ -1,0 +1,20 @@
+{
+  "version": "1.5",
+  "default_core_path": "C:\\ROMS-CORES\\pcsx_rearmed_libretro.dll",
+  "default_core_name": "Sony - PlayStation (PCSX ReARMed)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "C:\\ROMS\\PS1\\PCSX ReARMed\\Castlevania - Symphony of the Night\\Castlevania - Symphony of the Night.7z",
+      "label": "Castlevania - Symphony of the Night (USA)",
+      "core_path": "C:\\ROMS-CORES\\pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "SLUS-00067|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    }
+  ]
+}

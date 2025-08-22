@@ -1,0 +1,140 @@
+{
+  "version": "1.5",
+  "default_core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+  "default_core_name": "Arcade (FinalBurn Neo)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Golden Axe The Revenge of Death Adder\\ga2u.zip",
+      "label": "Golden Axe: The Revenge of Death Adder (US, Rev A)",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "0DA61782|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Guardian\\grdian.zip",
+      "label": "Guardian (US)",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "1FC8F277|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Hook\\hook.zip",
+      "label": "Hook (World)",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "BE16AA9C|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Metal Slug\\mslug.zip",
+      "label": "Metal Slug - Super Vehicle-001",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "AC6E93EA|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Metal Slug 2\\mslug2.zip",
+      "label": "Metal Slug 2 - Super Vehicle-001/II (NGM-2410) (NGH-2410)",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "F03E8E61|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Metal Slug 3\\mslug3.zip",
+      "label": "Metal Slug 3 (NGM-2560)",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "A6E4D5A1|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Metal Slug 4\\mslug4.zip",
+      "label": "Metal Slug 4 (NGM-2630)",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "94DCF726|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Metal Slug 5\\mslug5.zip",
+      "label": "Metal Slug 5 (NGM-2680)",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "F3141BA2|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Metal Slug 3\\mslug3b6.zip",
+      "label": "Metal Slug 6 (Metal Slug 3 bootleg)",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "1123E3ED|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Metal Slug X\\mslugx.zip",
+      "label": "Metal Slug X - Super Vehicle-001 (NGM-2500)(NGH-2500)",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "FCA81450|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Ninja Combat\\ncombat.zip",
+      "label": "Ninja Combat (NGM-009)",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "7EEADD3E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Sengoku\\sengoku.zip",
+      "label": "Sengoku / Sengoku Denshou (NGM-017)(NGH-017)",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "831BF2BD|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Sengoku 2\\sengoku2.zip",
+      "label": "Sengoku 2 / Sengoku Denshou 2",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "2E14D60E|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Sengoku 3\\sengoku3.zip",
+      "label": "Sengoku 3 / Sengoku Densho 2001",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "3A711CFB|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Zero Team USA\\zeroteams.zip",
+      "label": "Zero Team Selection",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "C09CA788|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\FinalBurn\\Neo\\Zero Team USA\\zeroteam.zip",
+      "label": "Zero Team USA (US)",
+      "core_path": "C:\\ROMS-CORES\\fbneo_libretro.dll",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "3E7ED1CF|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    }
+  ]
+}
