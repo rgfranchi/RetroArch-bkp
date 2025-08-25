@@ -2,6 +2,8 @@
 
 Repositório criado para manter as configurações do RetroArch
 
+## `LISTA DE JOGOS`
+
 ## Incluir nas configurações "Directory" o caminho para pastas do Repositório
 - playlist 
 - database 
@@ -16,4 +18,16 @@ Repositório criado para manter as configurações do RetroArch
 	- *Problema:* Ao tentar buscar lista de jogos do MAME não localizou a grande a maioria dos jogos.
 	- *Teste:* Separado o arquivo **database\MAME.rdb** a maioria dos jogos foi localizada porem com Core de outros MAMES e EMULADORE (Final Burn).
 		* Repositório contem as informações corrigidas.
-	- Os arquivos '.rdb' foram renomeados e ajustado de acordo com as necessidades.
+	- Os arquivos '.rdb' foram renomeados e ajustado de acordo com as necessidades.	
+	
+## `CONTROLES`
+	- Configurações está na *autoconfig*. (Settings -> Directory -> Controller Profiles)
+		- Para novos, apontar para a pasta original (configações existentes) e reiniciar o sistema.
+	- Controle é reconhecido pelos campos: `input_vendor_id` e `input_product_id`.
+		- Para `8BitDo` foi utilizada a configação de Android (D).
+
+### Controles (RGF)
+	- SNES USB Gamepad
+	- 8BitDo M30
+	- 8BitDo Pro 2
+

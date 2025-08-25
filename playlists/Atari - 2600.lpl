@@ -9,26 +9,10 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "C:\\ROMS\\Atari\\2600\\Smurfs Save the Day (USA).a26",
-      "label": "Smurfs Save the Day (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "AD89C697|crc",
-      "db_name": "Atari - 2600.lpl"
-    },
-    {
-      "path": "C:\\ROMS\\Atari\\2600\\Smurf - Rescue in Gargamel's Castle (USA).a26",
-      "label": "Smurf - Rescue in Gargamel's Castle (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "E0624A7F|crc",
-      "db_name": "Atari - 2600.lpl"
-    },
-    {
       "path": "C:\\ROMS\\Atari\\2600\\California Games (USA).a26",
       "label": "California Games (USA)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "C:\\ROMS-CORES\\stella2023_libretro.dll",
+      "core_name": "Atari - 2600 (Stella 2023)",
       "crc32": "E9A3FDC3|crc",
       "db_name": "Atari - 2600.lpl"
     },
@@ -126,6 +110,22 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "27D2DF2C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\Smurf - Rescue in Gargamel's Castle (USA).a26",
+      "label": "Smurf - Rescue in Gargamel's Castle (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E0624A7F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\Atari\\2600\\Smurfs Save the Day (USA).a26",
+      "label": "Smurfs Save the Day (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD89C697|crc",
       "db_name": "Atari - 2600.lpl"
     },
     {
