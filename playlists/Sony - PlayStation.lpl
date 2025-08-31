@@ -9,11 +9,27 @@
   "sort_mode": 0,
   "items": [
     {
+      "path": "C:\\ROMS\\PS1\\PCSX ReARMed\\Bomberman - Party Edition\\Bomberman - Party Edition (USA).zip",
+      "label": "Bomberman - Party Edition (USA)",
+      "core_path": "C:\\ROMS-CORES\\pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "98275A08|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
       "path": "C:\\ROMS\\PS1\\PCSX ReARMed\\Castlevania - Symphony of the Night\\Castlevania - Symphony of the Night.7z",
       "label": "Castlevania - Symphony of the Night (USA)",
       "core_path": "C:\\ROMS-CORES\\pcsx_rearmed_libretro.dll",
       "core_name": "Sony - PlayStation (PCSX ReARMed)",
       "crc32": "SLUS-00067|serial",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "C:\\ROMS\\PS1\\PCSX ReARMed\\Resident Evil\\Resident Evil (USA).7z",
+      "label": "Resident Evil (USA)",
+      "core_path": "C:\\ROMS-CORES\\pcsx_rearmed_libretro.dll",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "133E3E0B|crc",
       "db_name": "Sony - PlayStation.lpl"
     }
   ]
